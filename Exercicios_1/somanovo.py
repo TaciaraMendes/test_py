@@ -6,4 +6,4 @@ numero2 = 14
 
 resultado = numero1 + numero2
 
-print("A soma de ", numero1, "e", numero2, "é: ", resultado)
+print("A soma de ", numero1, "e", numero2, "é: ",resultado)    

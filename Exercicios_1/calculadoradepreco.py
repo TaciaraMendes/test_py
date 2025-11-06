@@ -14,7 +14,7 @@ quantidade =  3
 preço_total = preço_unitário * quantidade
 
 
-print("Produto:", nome_produto)
+print("Produto:", nome_produto) 
 print("Preço unitário: R$", preço_unitário)
 print("Quantidade:", quantidade)
-print("Preço total: R$",preço_total)
+print("Preço total: R$",preço_total)  
